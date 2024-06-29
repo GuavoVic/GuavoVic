@@ -1,4 +1,4 @@
-## Gustavo Victor, Software Developer passionate about music and games!
+## Software Developer passionate about music and games!
 
 <p align="center">Principais tecnologias</p>
 <p align="center">
