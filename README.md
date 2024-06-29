@@ -21,8 +21,7 @@
   </a>
 </p>
 
-<p>‎ </p>
-
+<p align="center">Social</p>
 <div align="center" style="display: inline_block">
   <a href="https://www.linkedin.com/in/gustavo.victor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
   /></a>
@@ -31,6 +30,8 @@
   <a href="https://instagram.com/guavovic" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"
   /></a>
 </div>
+
+<p>‎ </p>
 
 <div align="center" style="display: inline_block"> <img src="https://komarev.com/ghpvc/?username=guavovic&label=profile%20views&color=0e75b6&style=flat" alt="guavovic" />
 </div>
