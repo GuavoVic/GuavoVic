@@ -1,35 +1,18 @@
-## Software Developer passionate about music and games!
+## Hi 
 
-<p align="center">Main technologies</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,androidstudio,unity,visualstudio,vscode,github,git" />
-  </a>
-</p>
+*Software Developer passionate about music and games!*
 
-<p align="center">I know, but I don't use it much</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ae,ps,flutter,dart,firebase,py,notion,eclipse,java,postman" />
-  </a>
-</p>
-
-<p align="center">Learning</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,cpp,c,mysql,eclipse,lua,html,powershell,css,opencv,unreal,vim" />
-  </a>
-</p>
-
+<p>Main technologies</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,java,dotnet,cpp,py,opencv,androidstudio,unity,unreal,visualstudio,vscode,github,git" />
+</a>
+<h1></h1>
 <div align="center">
   <img
     height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guavovic&layout=compact&langs_count=7&theme=tokyonight&count_private=true"
   />
 </div>
-
-<h1></h1>
-
 <div align="center" style="display: inline_block">
   <a href="https://www.linkedin.com/in/gustavo.victor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
   /></a>
